@@ -1,4 +1,4 @@
-# Build Your First Ionic App: Photo Gallery (Ionic Angular and Capacitor)
+# Build Your First Ionic App: Photo Gallery (Ionic and Capacitor)
 
 Get started with Ionic by building a photo gallery app that runs on iOS, Android, and the web - with just one codebase. This is the complete project referenced in the ["Your First App: Angular" guide](https://ionicframework.com/docs/angular/your-first-app). Follow along to create a complete CRUD (create-read-update-delete) experience.
 
@@ -9,7 +9,7 @@ Powered by [Ionic Angular](https://ionicframework.com/docs/angular/overview) (we
 After the user navigates to Tab 2 (Photos), they can tap/click on the camera button to open up the device's camera. After taking or selecting a photo, it's stored permanently into the device's filesystem. When the user reopens the app at a later time, the photo images are loaded from the filesystem and displayed again in the gallery. The user can tap on a photo to be presented with the option to remove the photo.
 
 ## Feature Overview
-* App framework: [Angular](https://angular.io)
+* App framework: [Angular](https://react.io)
 * UI components: [Ionic Framework](https://ionicframework.com/docs/components)
   * Camera button: [Floating Action Button (FAB)](https://ionicframework.com/docs/api/fab)
   * Photo Gallery display: [Grid](https://ionicframework.com/docs/api/grid)
